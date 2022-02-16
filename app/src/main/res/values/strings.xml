@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Crud Android</string>
+    <string name="nome_do_inscrito">Nome do inscrito</string>
+    <string name="e_mail">E-mail</string>
+    <string name="inscrever_botao">Inscrever-se</string>
+    <string name="inscricao_title">Inscrição</string>
+    <string name="subscriber_inserted_successfully">Inscricao inserida com sucesso</string>
+    <string name="subscriber_error_to_insert">Ocorreu um erro ao inserir a inscricao</string>
+    <string name="subscriber_button">subscriber_button</string>
+    <string name="subscriber_email_hint">subscriber_email_hint</string>
+    <string name="subscriber_name_hint">subscriber_name_hint</string>
+
+
+
+</resources>
